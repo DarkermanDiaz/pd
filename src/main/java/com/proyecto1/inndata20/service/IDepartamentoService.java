@@ -1,7 +1,6 @@
 package com.proyecto1.inndata20.service;
 
 import com.proyecto1.inndata20.entity.DepartamentoEntity;
-import com.proyecto1.inndata20.service.impl.DepartamentoService;
 
 import java.util.List;
 import java.util.Optional;
